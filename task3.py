@@ -1,0 +1,6 @@
+dictdata={}
+a=int(input("enter a number:"))
+b=int(input("enter a number:"))
+c=int(input("enter a number:"))
+c=a+b
+print(c)
